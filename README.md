@@ -1,6 +1,6 @@
-- 👋 Hi, I’m C.A.T sommy
+- 👋 Hi,I'am Lathitha Mbunjana (C.A.T Sommy)
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning software development with the freecodecamp.com website and other computer archtecture
+- 🌱 I’m currently learning software development with my tools and equipment and  and other computer archtecture
 - 💞️ I’m looking to collaborate on computer related projects that i can do 
 - 📫 How to reach me.... use any of the github actions!
 - 
