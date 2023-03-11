@@ -1,4 +1,4 @@
-- 👋 Hi,I'am Lathitha Mbunjana(C.A.T Sommy)
+- 👋 Hi,I'am Lathitha Mbunjana (C.A.T Sommy)
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning software development with my own set of tools and equipment and   other computer archtecture
 - 💞️ I’m looking to collaborate on computer related projects that i can do 
