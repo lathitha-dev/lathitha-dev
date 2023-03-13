@@ -1,4 +1,12 @@
-One of the most critical concepts you should understand aboout Git is Branching.We have got you covered.In this tutorial,Deborah Kurata will teach you how to create a local Git repository with a main branch,then branch off of it.She will show you how to commit your code changes,then merge those files back into the main branch.This is what i like to call the "core gameplay loop" of software development.Enjoy.(40 minute read):https://www.freecodecamp.org/news/git-branching-commands-explained/
+                                                THEORY OF EVERYTHING(sample)
+                                            }
+                                             .addClassformula
+                                                 (document).readyfunction()
+                                                 readyeverything=kV.click.latitah
+                                                 .open span connection(0(=no.
+                                                 float:left;connection
+                                                 width:47pix;point co-creator
+                                            }
 - 👋 Hi,I'am Lathitha Mbunjana (C.A.T Sommy)
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning software development with my own set of tools and equipment and   other computer archtecture
