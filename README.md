@@ -1,4 +1,4 @@
-THEORY OF EVERYTHING(sample)
+                                                                  THEORY OF EVERYTHING (sample)
                                                                }
                                                                  .addClassformula
                                                                       (document).readyfunction()
