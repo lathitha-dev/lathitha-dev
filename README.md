@@ -1,6 +1,4 @@
-print(helloworld!)
-
-THEORY OF EVERYTHING (sample formula)
+THE OF EVERYTHING (sample formula)
                                                                }
                                                                  .addClassformula
                                                                       (document).readyfunction()
