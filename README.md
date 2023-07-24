@@ -1,4 +1,4 @@
-THE OF EVERYTHING (sample formula)
+THE THEORY OF EVERYTHING (sample formula)
                                                               
                                                                }
                                                                  .addClassformula
