@@ -16,8 +16,7 @@ THE THEORY OF EVERYTHING (sample formula)
 - 
 - !KEEP AN UPDATE ON MY TOP PROJECTS INCLUDING GROUP CHATS,BLOG,A WEBSITE,PORTFOLIO AND AN APP
 
-- also TelkomSA
-- Insufficient funds funds for purchase.Current balance is R22.37.Please top up and try again (savings project) 
+
 <!---
 lathitha-dev/lathitha-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
