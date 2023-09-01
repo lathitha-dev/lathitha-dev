@@ -1,13 +1,5 @@
-THE THEORY OF EVERYTHING (sample formula)
-                                                              
-                                                               }
-                                                                 .addClassformula
-                                                                      (document).readyfunction()
-                                                                      readyeverything=kV.click.latitah
-                                                                      .open span connection(0(=no.
-                                                                      float:left;connection
-                                                                      width:47pix;point co-creator
-                                                               }
+### Learning Github Actions
+#### Automation and Integration of CI/CD with Github 
 - 👋 Hi,I'am Lathitha Mbunjana (C.A.T Sommy)
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning software development with my own set of tools and equipment and   other computer archtecture
