@@ -1,4 +1,5 @@
 #### Learning Github Action (Automation and Integration of CI/CD with Github),checkout my repository!
+
 -👋 Hi,I'am Lathitha Mbunjana (C.A.T Sommy)
 -👀 I’m interested in computer science
 -🌱 I’m currently learning software development with my own set of tools and equipment and other computer archtecture
