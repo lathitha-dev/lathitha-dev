@@ -1,4 +1,4 @@
- ###### A checkout on my repository:
+###### A checkout on my repository:
 #### Learning Github Action (Automation and Integration of CI/CD with Github).
 
 - 👋 Hi,I'am Lathitha Mbunjana (C.A.T Sommy)
