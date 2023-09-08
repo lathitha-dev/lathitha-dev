@@ -1,1 +1,10 @@
-
+on:
+  push
+    branches:
+      - main
+      - 'rel/v*'
+    tags:
+      - v1.*
+      - beta
+    paths:
+      - '**.ts'
