@@ -1,0 +1,6 @@
+# Triggers the workflow on push or pull request events but
+# only for he main branch
+push:
+  branches: [ main ]
+pull request:
+  branches: [ main ]
