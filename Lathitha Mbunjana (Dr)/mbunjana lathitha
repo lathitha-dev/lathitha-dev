@@ -1,0 +1,3 @@
+The workflow can be called from other workflows (referred to as a reuse event):
+
+on: workflow__call
