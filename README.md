@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning software development with my own set of tools and equipment and other computer archtecture
 - 💞️I’m looking to collaborate on computer related projects that i can do 
 - 📫 How to reach me.... use any of the github actions!
-- ![image](https://github.com/lathitha-dev/lathitha-dev/assets/110297150/493e7d8f-41d9-42a1-a00d-03209087e469) (host)
+  
 
 
 
