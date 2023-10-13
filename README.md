@@ -1,3 +1,4 @@
+https://blogs.glowscotland.org.uk/wl/public/KPSBlog/uploads/sites/2138/2020/03/17113958/thinking-child.gif
 ###### A checkout on my repository:
 #### Learning Github Action (Automation and Integration of CI/CD with Github).
 
